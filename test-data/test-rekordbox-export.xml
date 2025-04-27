@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.8.5" Company="AlphaTheta"/>
+  <COLLECTION Entries="26">
+    <TRACK TrackID="43483080" Name="NOISE" Artist="" Composer="" Album=""
+           Grouping="" Genre="" Kind="WAV File" Size="1382226" TotalTime="5"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/OSC_SAMPLER/PRESET%20ONESHOT/NOISE.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="69921462" Name="SINEWAVE" Artist="" Composer="" Album=""
+           Grouping="" Genre="" Kind="WAV File" Size="1515258" TotalTime="5"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/OSC_SAMPLER/PRESET%20ONESHOT/SINEWAVE.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="98889396" Name="SIREN" Artist="" Composer="" Album=""
+           Grouping="" Genre="" Kind="WAV File" Size="1941204" TotalTime="7"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/OSC_SAMPLER/PRESET%20ONESHOT/SIREN.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="158648406" Name="HORN" Artist="" Composer="" Album=""
+           Grouping="" Genre="" Kind="WAV File" Size="2010816" TotalTime="7"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/OSC_SAMPLER/PRESET%20ONESHOT/HORN.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="108157828" Name="Demo Track 1" Artist="Loopmasters"
+           Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="6899624"
+           TotalTime="172" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="128.00"
+           DateAdded="2025-04-27" BitRate="320" SampleRate="44100" Comments="Tracks by www.loopmasters.com"
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Demo%20Tracks/Demo%20Track%201.mp3"
+           Remixer="" Tonality="" Label="Loopmasters" Mix="">
+      <TEMPO Inizio="0.025" Bpm="128.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="260533716" Name="Demo Track 2" Artist="Loopmasters"
+           Composer="" Album="" Grouping="" Genre="" Kind="MP3 File" Size="5124342"
+           TotalTime="128" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="120.00"
+           DateAdded="2025-04-27" BitRate="320" SampleRate="44100" Comments="Tracks by www.loopmasters.com"
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Demo%20Tracks/Demo%20Track%202.mp3"
+           Remixer="" Tonality="" Label="Loopmasters" Mix="">
+      <TEMPO Inizio="0.025" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="48.026" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="48.525" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="49.026" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="49.525" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="50.026" Bpm="120.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="50.525" Bpm="120.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="51.026" Bpm="120.00" Metro="4/4" Battito="3"/>
+      <TEMPO Inizio="51.525" Bpm="120.00" Metro="4/4" Battito="4"/>
+      <TEMPO Inizio="52.026" Bpm="120.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="85851145" Name="SNARE9" Artist="" Composer="" Album=""
+           Grouping="" Genre="" Kind="WAV File" Size="186906" TotalTime="0"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20101.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="221558883" Name="SNARE8" Artist="" Composer="" Album=""
+           Grouping="" Genre="" Kind="WAV File" Size="135948" TotalTime="0"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20102.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="207929290" Name="CLAP" Artist="" Composer="" Album=""
+           Grouping="" Genre="" Kind="WAV File" Size="203884" TotalTime="0"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20103.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="53714366" Name="CYMBAL" Artist="" Composer="" Album=""
+           Grouping="" Genre="" Kind="WAV File" Size="543576" TotalTime="2"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20104.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="82629857" Name="CLASH CYMBAL" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="WAV File" Size="1155024"
+           TotalTime="4" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2025-04-27" BitRate="2116" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20201.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="172037616" Name="SNARE" Artist="Loopmasters" Composer=""
+           Album="" Grouping="" Genre="" Kind="WAV File" Size="486444" TotalTime="1"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20202.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="48764209" Name="BOOM DOWN LIFTER1" Artist="Loopmasters"
+           Composer="" Album="" Grouping="" Genre="" Kind="WAV File" Size="1297038"
+           TotalTime="4" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2025-04-27" BitRate="2116" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20203.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="237000928" Name="BOOM DOWN LIFTER2" Artist="Loopmasters"
+           Composer="" Album="" Grouping="" Genre="" Kind="WAV File" Size="1639462"
+           TotalTime="9" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2025-04-27" BitRate="1411" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20204.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="259839130" Name="NOISE DOWN LIFTER1" Artist="Loopmasters"
+           Composer="" Album="" Grouping="" Genre="" Kind="WAV File" Size="1297040"
+           TotalTime="4" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2025-04-27" BitRate="2116" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20205.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="96202647" Name="NOISE DOWN LIFTER2" Artist="Loopmasters"
+           Composer="" Album="" Grouping="" Genre="" Kind="WAV File" Size="1378094"
+           TotalTime="5" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2025-04-27" BitRate="2116" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20206.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="263310105" Name="IMPACT KICK" Artist="Loopmasters" Composer=""
+           Album="" Grouping="" Genre="" Kind="WAV File" Size="1459146"
+           TotalTime="5" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2025-04-27" BitRate="2116" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20207.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="93065212" Name="IMPACT SNARE" Artist="Loopmasters" Composer=""
+           Album="" Grouping="" Genre="" Kind="WAV File" Size="1489766"
+           TotalTime="5" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2025-04-27" BitRate="2116" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20208.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="204531583" Name="SHORT BOOM" Artist="Loopmasters" Composer=""
+           Album="" Grouping="" Genre="" Kind="WAV File" Size="652554" TotalTime="2"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20209.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="25758050" Name="NEEDLE SCRATCH NOISE" Artist="" Composer=""
+           Album="" Grouping="" Genre="" Kind="WAV File" Size="543590" TotalTime="2"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20301.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="47757993" Name="HORN" Artist="" Composer="" Album=""
+           Grouping="" Genre="" Kind="WAV File" Size="1621228" TotalTime="6"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20302.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="185032267" Name="REWIND" Artist="" Composer="" Album=""
+           Grouping="" Genre="" Kind="WAV File" Size="1494288" TotalTime="5"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20303.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="219710356" Name="SHORT BOOM" Artist="Loopmasters" Composer=""
+           Album="" Grouping="" Genre="" Kind="WAV File" Size="727752" TotalTime="2"
+           DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00" DateAdded="2025-04-27"
+           BitRate="2116" SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20304.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="6438841" Name="LET&apos;S GO" Artist="Loopmasters" Composer=""
+           Album="" Grouping="" Genre="" Kind="WAV File" Size="1002802"
+           TotalTime="3" DiscNumber="0" TrackNumber="0" Year="0" AverageBpm="0.00"
+           DateAdded="2025-04-27" BitRate="2116" SampleRate="44100" Comments=""
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Louis/Music/PioneerDJ/Sampler/MERGE%20FX/MergeFX%20Sample%20Sound%20305.wav"
+           Remixer="" Tonality="" Label="" Mix=""/>
+    <TRACK TrackID="68744474" Name="Wrkt48" Artist="Tymotica" Composer=""
+           Album="Temporal Bias" Grouping="" Genre="" Kind="MP3 File" Size="11852502"
+           TotalTime="293" DiscNumber="0" TrackNumber="4" Year="2024" AverageBpm="135.00"
+           DateAdded="2025-04-27" BitRate="320" SampleRate="44100" Comments="Visit https://ofparadise.bandcamp.com"
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Louis/Downloads/Tymotica%20-%20Wrkt48.mp3"
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.164" Bpm="135.00" Metro="4/4" Battito="1"/>
+      <TEMPO Inizio="0.609" Bpm="135.00" Metro="4/4" Battito="2"/>
+      <TEMPO Inizio="205.054" Bpm="135.00" Metro="4/4" Battito="2"/>
+    </TRACK>
+    <TRACK TrackID="63608645" Name="Prox System" Artist="Tymotica" Composer=""
+           Album="Incoherent Death Experience EP" Grouping="" Genre="" Kind="MP3 File"
+           Size="12322870" TotalTime="302" DiscNumber="0" TrackNumber="3"
+           Year="2020" AverageBpm="130.00" DateAdded="2025-04-27" BitRate="320"
+           SampleRate="44100" Comments="Visit https://ruffhouseindustries.bandcamp.com"
+           PlayCount="0" Rating="0" Location="file://localhost/C:/Users/Louis/Downloads/Tymotica%20-%20Prox%20System.mp3"
+           Remixer="" Tonality="" Label="" Mix="">
+      <TEMPO Inizio="0.282" Bpm="130.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="3">
+      <NODE Name="easy name" Type="1" KeyType="0" Entries="11">
+        <TRACK Key="237000928"/>
+        <TRACK Key="259839130"/>
+        <TRACK Key="96202647"/>
+        <TRACK Key="263310105"/>
+        <TRACK Key="93065212"/>
+        <TRACK Key="221558883"/>
+        <TRACK Key="207929290"/>
+        <TRACK Key="53714366"/>
+        <TRACK Key="82629857"/>
+        <TRACK Key="172037616"/>
+        <TRACK Key="48764209"/>
+      </NODE>
+      <NODE Name="test 12 %d @" Type="1" KeyType="0" Entries="5">
+        <TRACK Key="108157828"/>
+        <TRACK Key="260533716"/>
+        <TRACK Key="85851145"/>
+        <TRACK Key="221558883"/>
+        <TRACK Key="207929290"/>
+      </NODE>
+      <NODE Name="folder and that" Type="0" Count="2">
+        <NODE Name="nested playlist" Type="1" KeyType="0" Entries="3">
+          <TRACK Key="68744474"/>
+          <TRACK Key="43483080"/>
+          <TRACK Key="69921462"/>
+        </NODE>
+        <NODE Name="nested folder" Type="0" Count="1">
+          <NODE Name="nested squared playlist" Type="1" KeyType="0" Entries="6">
+            <TRACK Key="68744474"/>
+            <TRACK Key="96202647"/>
+            <TRACK Key="263310105"/>
+            <TRACK Key="93065212"/>
+            <TRACK Key="204531583"/>
+            <TRACK Key="63608645"/>
+          </NODE>
+        </NODE>
+      </NODE>
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>
